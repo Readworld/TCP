@@ -9,4 +9,10 @@ Server: 服务器终端
     --\Server：工程
     
 
+Client: 客户端，可多开   
+
+    --ClientWithHeartBeat.sln：解决方案    
+    --\bin：可执行文件文件夹
+    --\Client：工程
+
 
