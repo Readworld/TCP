@@ -1,0 +1,6 @@
+F:\CODE\客户端_心跳机制\bin\客户端_心跳机制.exe
+F:\CODE\客户端_心跳机制\bin\客户端_心跳机制.pdb
+F:\CODE\客户端_心跳机制\客户端_心跳机制\obj\x86\Debug\客户端_心跳机制.exe
+F:\CODE\客户端_心跳机制\客户端_心跳机制\obj\x86\Debug\客户端_心跳机制.pdb
+E:\41所工作\CODE\Client\客户端_心跳机制\obj\x86\Debug\客户端_心跳机制.exe
+E:\41所工作\CODE\Client\客户端_心跳机制\obj\x86\Debug\客户端_心跳机制.pdb
