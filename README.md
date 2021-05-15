@@ -3,5 +3,9 @@
 
 文件说明：  
 Server: 服务器终端
-  -- 
+    --ServerWithHeartBeat.sln：解决方案   
+    --\bin：可执行文件文件夹
+    --\Server：工程
+    
+
 
